@@ -1,4 +1,3 @@
-const expect = chai.expect;
 describe('index.js', () => {
   describe('Global Data Store', () => {
     it('can store neighborhoods', () => {
